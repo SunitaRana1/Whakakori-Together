@@ -2,6 +2,17 @@
 
 Whakakori Together is a non-commercial React prototype for a facilitator-supported movement and quiz activity for older adults. The welcome screen shows a standing character, a Start button, and the camera privacy notice. Start opens the standing and seated choices. Standing and seated rounds present five movement videos in random, non-repeating order, followed by three distinct questions randomly selected from a shared bank of ten illustrated two-choice questions and a locally saved wellbeing tree reward.
 
+## Project Context & My Contributions
+
+**Course & Client:** CSMAX570 (University of Waikato) — Developed by Group 8 for **Rauawaawa Kaumātua Charitable Trust**  
+**Live Prototype:** [swaysway.vercel.app](https://swaysway.vercel.app)
+
+### My Role: User Experience (UX) & Presentation Coordinator — Sunita Rana
+* **Inclusive UX & Accessibility Design:** Designed the accessible, age-friendly user journey for kaumātua, including equal side-by-side Standing and Seated mode selection, stacked bilingual English/te reo Māori labels, and single-task-per-screen layouts aligned with WCAG 2.2 principles.
+* **Gesture & Quiz Interaction Flow:** Redesigned the quiz hand-raise guide from a rear-facing perspective (left hand = Option A, right hand = Option B) to prevent mirror confusion, paired with accessible on-screen A/B buttons and a 5-second timer fallback when a camera is unavailable.
+* **Culturally Grounded Quiz Curation:** Curated and fact-checked the 10-question Aotearoa New Zealand quiz bank (covering native flora/fauna, Waikato landmarks, and national history) against DOC, Manaaki Whenua, NIWA, and NZHistory sources, alongside non-competitive Wellbeing Tree progression.
+* **Stakeholder Alignment & Presentations:** Coordinated client demonstrations and milestone presentations with Rauawaawa Kaumātua Charitable Trust (IT Project Lead & CEO), translating stakeholder feedback from the initial fishing game concept into an avatar-guided movement and brain-exercise prototype.
+  
 ## Local startup
 
 Requirements: Node.js 22 LTS and pnpm.
